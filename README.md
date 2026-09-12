@@ -45,8 +45,8 @@ For the original project, source code, features, and other information, please v
 
 ## This fork
 
-**orange-seele/TMatrix**
+**orange-seele/terminal-rain-lightning**
 
-https://github.com/orange-seele/TMatrix
+https://github.com/orange-seele/terminal-rain-lightning
 
 English is not my native language. This text was translated using automated translation tools; thank you for your understanding.
