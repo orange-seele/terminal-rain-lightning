@@ -44,4 +44,5 @@ MANIFEST
 .pytest_cache/
 
 # Nix build result
-result/
+result
+result-*

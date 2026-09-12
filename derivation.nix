@@ -8,4 +8,6 @@ python3Packages.buildPythonApplication {
   propagatedBuildInputs = [ python3Packages.setuptools ];
 
   src = ./.;
+
+  meta.mainProgram = "terminal-rain";
 }
