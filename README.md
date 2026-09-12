@@ -30,7 +30,7 @@ Then add the package to `environment.systemPackages`:
 
 ```nix
 environment.systemPackages = [
-  inputs.terminal-rain-lightning.packages.${pkgs.stdenv.hostPlatform.system}.default
+  inputs.terminal-rain.packages."${pkgs.stdenv.hostPlatform.system}".default
 ];
 ```
 
